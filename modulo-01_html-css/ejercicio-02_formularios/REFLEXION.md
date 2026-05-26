@@ -1,4 +1,4 @@
-# REFLEXION — Ejercicio [NÚMERO]: [NOMBRE]
+# REFLEXION — Ejercicio 1.2: Formularios Accesibles
 
 > **Instrucciones:** Reemplazá `[NÚMERO]` y `[NOMBRE]` con el número y nombre del ejercicio correspondiente. Completá este archivo DESPUÉS de terminar tu solución. Escribí con tus propias palabras.
 

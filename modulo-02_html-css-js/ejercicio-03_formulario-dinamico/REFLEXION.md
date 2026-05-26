@@ -1,4 +1,4 @@
-# REFLEXION — Ejercicio [NÚMERO]: [NOMBRE]
+# REFLEXION — Ejercicio 2.3: Formulario Dinámico
 
 > **Instrucciones:** Reemplazá `[NÚMERO]` y `[NOMBRE]` con el número y nombre del ejercicio correspondiente. Completá este archivo DESPUÉS de terminar tu solución. Escribí con tus propias palabras.
 
