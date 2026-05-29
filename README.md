@@ -7,9 +7,9 @@
 
 | Campo | Dato |
 |-------|------|
-| **Nombre y Apellido** | |
-| **Legajo** | |
-| **Correo electrónico** | |
+| **Nombre y Apellido** | Lucio Angel |
+| **Legajo** | 33664 |
+| **Correo electrónico** | lucio.angel@alu.frlp.utn.edu.ar |
 
 ---
 
