@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio 2 - Modulo 1</title>
+</head>
+<body>
+    <header>
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/git.svg" alt="Imagen del logo de Git" width="50" height="50">
+        <nav><ul>
+            <li><a href="https://git-scm.com/" target="_blank">Git</a></li>
+            <li><a href="https://www.linux.org/" target="_blank">Linux</a></li>
+            <li><a href="https://httpd.apache.org/" target="_blank">Apache Server</a></li>
+            <li><a href="https://www.mysql.com/" target="_blank">MySQL</a></li>
+        </ul></nav>
+    </header>
+    <main>
+        <h1>Contactanos</h1>
+        <p>Dejanos tu mensaje</p>
+        <form action="https://example.com/submit" method="POST">
+            <fieldset>
+                <legend>Formulario de contacto</legend>
+                <label for="nombre">Nombre:</label>
+                <input type="text" id="nombre" name="nombre" required aria-required="true"><br><br>
+
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required aria-required="true"><br><br>
+
+                <label for="telefono">Telefono:</label>
+                <input type="tel" id="telefono" name="telefono" placeholder="Opcional*"><br><br>
+
+                <label for="tema">Motivo:</label>
+                <select id="tema" name="tema" required aria-required="true">
+                    <option value="">Selecciona un motivo</option>
+                    <option value="motivo1">motivo1</option>
+                    <option value="motivo2">motivo2</option>
+                    <option value="motivo3">motivo3</option>
+                </select><br><br>
+
+                <label for="mensaje">Mensaje:</label><br>
+                <textarea id="mensaje" name="mensaje" rows="4" cols="50" required aria-required="true"></textarea><br><br>
+
+                <input type="checkbox" id="aceptar" name="aceptar" required aria-required="true">
+                <label for="aceptar">Acepto los términos y condiciones</label><br><br>
+
+                <input type="radio" name="tipo" id="consulta" value="consulta" required aria-required="true">
+                <label for="consulta">Consulta</label><br>
+                <input type="radio" name="tipo" id="sugerencia" value="sugerencia" required aria-required="true">
+                <label for="sugerencia">Sugerencia</label><br>
+
+
+
+                <button type="submit">Enviar</button>
+            </fieldset>
+        </form>
+    </main>
+
+<!-- La diferencia entre aria-required y required es: [tu explicación] -->    
+</body>
+</html>
